@@ -1,1 +1,3 @@
 This is the terraform code created to deploy database (postgres)
+CPU increase to 4core
+Memeory increase to 16G
